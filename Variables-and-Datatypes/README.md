@@ -1,1 +1,1 @@
-Programs related to variables and data types.
+I have learned some concepts in java that is variables and datatypes and i want to show case what i have learnt till now and in this folder there exists the programs related to Variable-and-Datatypes.
