@@ -1,2 +1,2 @@
 # Java-Practice
-Java practice programs and DSA solutions
+Java practice programs based on concepts
